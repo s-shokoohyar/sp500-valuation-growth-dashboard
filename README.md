@@ -67,8 +67,9 @@ These features make it easy to focus on specific industries, valuation ranges, o
 
 ---
 
-## 🌐 Connect  
-- [🔗 LinkedIn: Sanaz Shokoohyar](https://www.linkedin.com/in/sanaz-shokoohyar-2bb2245a/)  
+## 🌐 Connect / Link  
+- [🔗 LinkedIn: Sanaz Shokoohyar](https://www.linkedin.com/in/sanaz-shokoohyar-2bb2245a/)
+- https://medium.com/@s.shokoohyar/s-p-500-valuation-growth-performance-dashboard-669503066c59
 
 
 
