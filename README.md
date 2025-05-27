@@ -69,7 +69,7 @@ These features make it easy to focus on specific industries, valuation ranges, o
 
 ## 🌐 Connect  
 - [🔗 LinkedIn: Sanaz Shokoohyar](https://www.linkedin.com/in/sanaz-shokoohyar-2bb2245a/)  
-- [📫 Email](s.shokoohyar@gmail.com)
+
 
 
 
