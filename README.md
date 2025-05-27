@@ -1,82 +1,75 @@
-📊 S&P 500 Valuation & Growth Performance Dashboard
+# 📈 S&P 500 Valuation & Growth Performance Dashboard
 
-An interactive financial dashboard built with **Python** and **Tableau** to analyze and visualize valuation, growth, and profitability metrics of companies in the S&P 500 Index.
-
----
-
- 🔍 Overview
-
-This project explores relationships between company valuation (PE Ratio), growth (Revenue Growth %), and operational efficiency (EBITDA Margin), while navigating sector dynamics. The dashboard enables investors, analysts, and decision-makers to:
-
-- Identify undervalued high-growth stocks  
-- Spot outliers across sectors  
-- Analyze sector-based market capitalization and growth trends  
+An interactive dashboard analyzing valuation and growth metrics of companies in the **S&P 500 Index**, built using **Python** and **Tableau**.
 
 ---
 
- 📊 What's Inside?
-
-The dashboard includes four key visualizations:
-
-1. **Valuation vs Revenue Growth**  
-   Scatter plot with:
-   - **X-axis**: PE Ratio  
-   - **Y-axis**: Revenue Growth (%)  
-   - **Bubble size**: Market Capitalization  
-   - **Color**: Sector  
-
-2. **Revenue Growth vs EBITDA Margin**  
-   Highlights scalable and efficient business models.
-
-3. **Total Market Cap by Sector**  
-   Bar chart revealing where capital is concentrated.
-
-4. **Average Revenue Growth by Sector**  
-   Sector comparison to show momentum or stagnation.
+## 🔍 Overview
+This project offers a dynamic view into how S&P 500 companies perform across critical financial metrics. It enables users to explore relationships between **valuation, revenue growth**, and **profitability**, while comparing trends across different sectors through intuitive filters.
 
 ---
 
- 🎛️ Filters and Interactivity
+## 📊 What's Inside?
+The dashboard includes four core analytical views:
 
-Dynamic filters available in the Tableau dashboard:
--  Sector  
--  PE Ratio  
--  Revenue Growth (%)  
--  Market Capitalization (Billions)  
+- **Valuation vs Revenue Growth**  
+  Explore how company valuation (P/E Ratio) relates to revenue expansion, with visual emphasis on company size and sector.
 
-These filters allow targeted insights by industry, valuation bracket, or company size.
+- **Revenue Growth vs EBITDA Margin**  
+  Analyze how companies balance growth with profitability to reveal efficient business models.
+
+- **Total Market Capitalization by Sector**  
+  Understand which sectors hold the largest market share across the S&P 500.
+
+- **Average Revenue Growth by Sector**  
+  Compare sector-wide growth trends to identify momentum or stagnation across industries.
+
+---
+
+## 🎛️ Filters & Interactivity
+The dashboard allows flexible, user-driven exploration through dynamic filters for:
+
+- ✅ Sector  
+- ✅ P/E Ratio  
+- ✅ Revenue Growth (%)  
+- ✅ Market Capitalization (Billions)
+
+These features make it easy to focus on specific industries, valuation ranges, or company sizes — ideal for investment screening or strategic research.
 
 ---
 
 ## 💡 Insights & Analytics
-
-- **Descriptive Analytics**: Visual trends in valuation, profitability, and growth  
-- **Diagnostic Analytics**: Spot outliers and undervalued high-performers  
-- **Visual Storytelling**: Financial insights through interactive design  
+- ✨ **Descriptive Analytics**: Visualized sector-level valuation and growth patterns  
+- ✨ **Diagnostic Analytics**: Highlighted high-growth and undervalued companies  
+- ✨ **Visual Storytelling**: Integrated multiple financial indicators to guide user-driven insights  
 
 ---
 
-## ⚙️ Tools & Technologies Used
-
-| Tool/Skill | Purpose |
-|------------|---------|
-| **Python (Pandas, NumPy)** | Data extraction, cleaning, and preprocessing |
-| **Jupyter Notebook** | Interactive development and data prep |
-| **Excel** | Clean dataset used in Tableau |
-| **Tableau** | Dashboard creation and interactive visualization |
-| **Financial Metrics** | PE Ratio, Revenue Growth (%), EBITDA Margin, Market Cap |
-| **UX/UI Design** | Filters, tooltips, and layout for seamless experience |
+## ⚙️ Tools & Skills Demonstrated
+- **Python**: Data wrangling and preparation with `Pandas` and `NumPy`  
+- **Tableau**: Interactive dashboard design and visual storytelling  
+- **Financial Analysis**: P/E Ratio, Revenue Growth, EBITDA Margin, Market Cap  
+- **User Experience**: Custom filters, calculated fields, and tooltips for smooth interaction
 
 ---
 
 ## 🧠 Challenges Tackled
-
-- 🧼 Managed extreme outliers in PE and Revenue Growth  
-- 🧹 Handled null and irrelevant data with filtering and preprocessing  
-- 🎨 Balanced complexity with usability for novice and expert users  
+- 🚫 Handled outliers in valuation and growth metrics  
+- 🎯 Built dynamic filters to exclude missing or irrelevant values  
+- 🎨 Balanced depth and clarity to suit both novice and expert users
 
 ---
 
-## 📁 Project Structure
+## 📁 Project Info
+- **Tools**: Python | Tableau  
+- **Dataset**: `s&p500_companies.csv`  
+- **Author**: *Sanaz Shokoohyar*
+
+---
+
+## 🌐 Connect  
+- [🔗 LinkedIn: Sanaz Shokoohyar](https://www.linkedin.com/in/sanaz-shokoohyar-2bb2245a/)  
+- [📫 Email](s.shokoohyar@gmail.com)
+
 
 
